@@ -1,0 +1,58 @@
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\UnityEditor.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.VR.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\Mono.Cecil.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\Unity.DataContract.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.xml
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\UnityEditor.xml
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Graduation Project\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.VR.xml
+D:\Graduation Project\Tower Of Hanoi\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Graduation Project\Tower Of Hanoi\obj\Debug\Assembly-CSharp.dll
+D:\Graduation Project\Tower Of Hanoi\obj\Debug\Assembly-CSharp.pdb
+C:\Users\宗廷\Documents\Tower Of Hanoi\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\宗廷\Documents\Tower Of Hanoi\obj\Debug\Assembly-CSharp.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\UnityEditor.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.xml
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\UnityEditor.xml
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\宗廷\Documents\Tower Of Hanoi\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\宗廷\Documents\Tower Of Hanoi\obj\Debug\Assembly-CSharp.pdb
