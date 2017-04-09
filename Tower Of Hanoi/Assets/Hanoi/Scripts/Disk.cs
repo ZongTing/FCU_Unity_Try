@@ -7,11 +7,11 @@ public class Disk : MonoBehaviour
 	private GameController gc;
 	public Pole locate;
 	public int Size;
-	public float disktargetY;
+	//public float disktargetY;
 
 	void Start()
 	{
-		disktargetY = this.transform.position.y;
+		//disktargetY = this.transform.position.y;
 		gc = GameObject.Find ("GameController").GetComponent<GameController> (); 
 	}
 

@@ -29,43 +29,46 @@ public class GameController : MonoBehaviour
 		//判斷是否為最上面的Disk
 		if(newDisk.locate.Deck.Peek () == newDisk)
 		{
-			selectedDisk = newDisk;	
+			selectedDisk = newDisk;
+			//Debug.Log ("目前選取的Disk:" + selectedDisk);
 		}
 	}
 
 	public void SelectPole(Pole newPole)
 	{
-		selectedPole = newPole;
+		if (selectedDisk != null)
+		{
+			selectedPole = newPole;	
+			//Debug.Log ("目前選取的Pole:" + selectedPole);
+		}
 //		Debug.Log ("最上面的Disk" + selectedPole.Deck.Peek());//顯示被選取的柱子最上面的Disk
 //		Debug.Log ("裡面有" + selectedPole.Deck.Count + "個Disk");//顯示被選取的柱子上面有幾個Disk
 	}
 
 	private void Move()
 	{
-		if(selectedDisk != null)
+		if (selectedDisk != null && selectedPole != null)
 		{
-			if (selectedPole != null) 
+			if (selectedPole.Deck.Count == 0)
 			{
-				if (selectedPole.Deck.Count == 0)
-				{
-					PushinPole ();
-					selectedDisk.locate = selectedPole;
-					selectedDisk = null;
-					selectedPole = null;
-				}
-				else if(selectedDisk.Size < selectedPole.Deck.Peek ().Size)
-				{
-					PushinPole ();
-					selectedDisk.locate = selectedPole;
-					selectedDisk = null;
-					selectedPole = null;
-				}
-				else if(selectedDisk.Size > selectedPole.Deck.Peek ().Size)
-				{
-					Debug.Log ("不可以這樣放");
-				}
+				PushinPole ();
+				selectedDisk.locate = selectedPole;
+				selectedDisk = null;
+				selectedPole = null;
+			}
+			else if(selectedDisk.Size < selectedPole.Deck.Peek ().Size)
+			{
+				PushinPole ();
+				selectedDisk.locate = selectedPole;
+				selectedDisk = null;
+				selectedPole = null;
+			}
+			else if(selectedDisk.Size > selectedPole.Deck.Peek ().Size)
+			{
+				Debug.Log ("不可以這樣放");
 			}
 		}
+
 	}
 		
 	public void PushinPole()
